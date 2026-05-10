@@ -1,0 +1,8 @@
+Lead → Interested Person
+Contact → Verified Person
+Opportunity → Possible Deal
+Customer → Successful Buyer
+Account = College
+Contact = Student
+Lead = Student who enquires about admission
+Opportunity = Chance of student taking admission
