@@ -1,0 +1,52 @@
+Summary of Salesforce Platform Use Cases
+
+Salesforce platform helps businesses improve productivity, automate processes, and manage data efficiently across different departments. The platform is designed to reduce manual work and simplify business operations using low-code and AI-powered tools.
+
+One of the major advantages of Salesforce is that it allows companies to achieve high impact with low effort. Businesses often face problems like managing spreadsheets, handling large numbers of emails, dealing with repetitive tasks, and maintaining inconsistent data. Salesforce solves these problems by providing automation and centralized data management tools.
+
+The learning example used is Dreamhouse Realty, a fictional real estate company. In Dreamhouse, brokers add property details in different ways, which creates issues like missing information and inconsistent formatting. To solve this, the Salesforce administrator D’Angelo creates a custom property object and uses Flow Builder to build a screen flow that standardizes how property details are entered. This ensures that all information is complete and correctly formatted.
+
+Salesforce also includes AI-powered tools such as Prompt Builder. Prompt Builder helps generate personalized customer emails and responses using company and customer data. For example, Dreamhouse brokers can automatically send customized property recommendation emails to buyers based on their preferences. This improves communication and saves time.
+
+The platform is especially useful for processes that involve:
+
+Heavy email communication
+Spreadsheet dependency
+Shared documents
+Repetitive manual work
+Tasks involving only a few departments initially
+
+These are considered ideal areas for automation using Salesforce.
+
+The Salesforce platform is not limited to sales departments. It can also be customized for many other departments.
+
+HR Department Use Case
+
+In the HR department, employees handle large numbers of job applications, onboarding tasks, training schedules, and hardware requests. Salesforce can help by creating a custom HR application that:
+
+Stores job openings
+Tracks applicants
+Sends automated reminders
+Manages training plans
+Handles equipment orders
+Tracks employee leave
+
+The HR team can also use Salesforce mobile applications to work from anywhere. AI tools like Prompt Builder can summarize candidate details and generate recruitment emails automatically.
+
+IT Department Use Case
+
+The IT department often receives many support requests and tickets. Salesforce helps streamline IT operations by:
+
+Managing support tickets
+Creating reports and dashboards
+Sending automatic status emails
+Routing requests to the correct team
+Building knowledge bases for common issues
+Tracking hardware assets
+
+This improves employee support and allows the IT team to focus on infrastructure development instead of handling repetitive tasks manually.
+Other Department Users are
+Finance
+Product Department
+Supply Chain
+Operations
