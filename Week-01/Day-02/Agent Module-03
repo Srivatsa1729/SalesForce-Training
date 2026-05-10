@@ -19,3 +19,13 @@ Powers predictive and generative AI using complete business context
 For example, Dreamhouse Realty can use Data 360 to track customer web interactions, property interests, and support history in real time. This helps brokers provide better customer experiences and allows AI systems to generate smarter recommendations and communications.
 
 Salesforce architecture also heavily relies on APIs (Application Programming Interfaces). APIs allow different software systems and applications to communicate and exchange data with each other. In Salesforce, every object and field is API-enabled. When developers or users create objects and fields, Salesforce automatically generates API names that act as access points to retrieve and use information throughout the platform.
+APIs make Salesforce highly flexible because the same data can be used across:
+
+Mobile applications
+Email templates
+Custom apps
+Dashboards
+External systems
+
+This integration capability allows businesses to build unique and creative solutions while keeping all systems connected efficiently.
+Overall, Salesforce architecture combines cloud computing, metadata, multitenancy, Data 360, APIs, automation tools, and AI technologies into one unified platform. This architecture helps businesses customize applications quickly, manage data securely, automate processes, and improve customer experiences while reducing technical complexity
