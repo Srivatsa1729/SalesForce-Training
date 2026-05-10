@@ -1,0 +1,21 @@
+Summary of Salesforce Architecture
+
+Salesforce architecture is designed to provide businesses with a fast, secure, and highly customizable cloud platform. Salesforce allows companies to build applications, manage customer data, automate workflows, and use AI-powered tools with little or no coding. The entire system works through a layered architecture where different technologies and services are connected together.
+
+Salesforce is a cloud-based platform, meaning all services, applications, and data are stored online instead of on local computers. Because of this cloud structure, businesses can access Salesforce from anywhere without installing hardware or software updates manually. Salesforce automatically handles upgrades, maintenance, and security.
+
+The Salesforce platform is built on a metadata-driven architecture. Metadata means “data about data.” It defines the structure of the Salesforce system, including objects, fields, page layouts, security settings, and customizations. For example, in a Property object, fields like address, price, and bedrooms are considered metadata because they define how information is stored. Metadata allows businesses to customize applications quickly without changing the core system.
+
+A major feature of Salesforce architecture is multitenancy. In multitenancy, multiple companies share the same cloud infrastructure while keeping their data secure and separate. This is similar to different families living in separate apartments within the same building. Every company receives the same computing power, storage, and platform features, regardless of business size. Multitenancy helps Salesforce provide automatic updates and cost-effective services to all users.
+
+Trust is considered the top priority in Salesforce. Since companies store sensitive customer and business data on the platform, Salesforce focuses heavily on security and transparency. The trust site provides information about system performance, maintenance schedules, and security updates. Salesforce also introduced the Einstein Trust Layer, which adds security protections and guardrails for generative AI features, ensuring customer data privacy and governance.
+
+Another important component is Data 360, which acts as a large-scale data engine integrated into Salesforce. Data 360 helps organizations manage structured and unstructured data collected from different sources. It works like a data lakehouse that combines and organizes data so it can be easily used across Salesforce applications. Data 360 performs three major functions:
+
+Connects and surfaces data from multiple systems
+Enables zero-copy integrations without duplicating data
+Powers predictive and generative AI using complete business context
+
+For example, Dreamhouse Realty can use Data 360 to track customer web interactions, property interests, and support history in real time. This helps brokers provide better customer experiences and allows AI systems to generate smarter recommendations and communications.
+
+Salesforce architecture also heavily relies on APIs (Application Programming Interfaces). APIs allow different software systems and applications to communicate and exchange data with each other. In Salesforce, every object and field is API-enabled. When developers or users create objects and fields, Salesforce automatically generates API names that act as access points to retrieve and use information throughout the platform.
